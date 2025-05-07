@@ -10,7 +10,4 @@
   # ToDesk
   - PROCESS-NAME,ToDesk.exe
   - DOMAIN-SUFFIX,todesk.com
-  # lonely
-  - DOMAIN-SUFFIX,luori.ink
-  - PROCESS-NAME,yidongbangong.exe
 
