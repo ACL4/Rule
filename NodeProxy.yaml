@@ -10,8 +10,6 @@ payload:
   - DOMAIN-SUFFIX,pi-manager.cn
   - DOMAIN-SUFFIX,pi-bbs.com
   - DOMAIN-SUFFIX,pi-ads.cn
-  - PROCESS-NAME,Pi Node Manager 1.2.3.3.exe
-  - PROCESS-NAME,Pi Node Manager 1.2.3.4.exe
   # 4K
   - DOMAIN-SUFFIX,4ksg.vip
   - DOMAIN-SUFFIX,fd80s.com
