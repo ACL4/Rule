@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,4ksg.vip
   - DOMAIN-SUFFIX,fd80s.com
   # github
+  - PROCESS-NAME,Clash for Windows.exe
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,id9.cc
