@@ -11,5 +11,9 @@
   - PROCESS-NAME,ToDesk.exe
   - DOMAIN-SUFFIX,todesk.com
   - DOMAIN,rustdesk.wvv.ip-ddns.com
+  # ToDesk
+  - DOMAIN-SUFFIX,jp-osaka-1.lcf.im
+  - IP-CIDR,217.142.237.227/32,no-resolve
+  
 
 
