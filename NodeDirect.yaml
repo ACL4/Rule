@@ -11,7 +11,9 @@
   - PROCESS-NAME,ToDesk.exe
   - DOMAIN-SUFFIX,todesk.com
   - DOMAIN,rustdesk.wvv.ip-ddns.com
-  # 1605ceshi
+  # luori
+  - DOMAIN,seafile.luori.ink
+  - IP-CIDR,43.165.132.234/32
 
   
 
