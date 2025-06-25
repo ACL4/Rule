@@ -23,8 +23,3 @@ payload:
   # ChatGPT：ChatGPT
   - PROCESS-NAME,ChatGPT.exe
   - DOMAIN-SUFFIX,openai.com
-
-
-
-
-
