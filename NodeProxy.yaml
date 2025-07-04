@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,423down.com
   - DOMAIN-SUFFIX,paofusub2.com
   - DOMAIN-SUFFIX,paofu.cloud
+  - DOMAIN-SUFFIX,cloudflare.com
   # ChatGPT：ChatGPT
   - PROCESS-NAME,ChatGPT.exe
   - DOMAIN-SUFFIX,openai.com
