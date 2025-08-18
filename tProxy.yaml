@@ -1,0 +1,18 @@
+payload:
+  # jiancefanyi
+  - DOMAIN,translate.googleapis.com
+  - DOMAIN,translate.google.com
+  # 4K
+  - DOMAIN-SUFFIX,4ksg.vip
+  - DOMAIN-SUFFIX,fd80s.com
+  # github
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,id9.cc
+  - DOMAIN-SUFFIX,423down.com
+  - DOMAIN-SUFFIX,paofusub2.com
+  - DOMAIN-SUFFIX,paofu.cloud
+  - DOMAIN-SUFFIX,cloudflare.com
+  # ChatGPT：ChatGPT
+  - PROCESS-NAME,ChatGPT.exe
+  - DOMAIN-SUFFIX,openai.com
