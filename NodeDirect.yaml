@@ -10,7 +10,5 @@
   # ToDesk
   - PROCESS-NAME,ToDesk.exe
   - DOMAIN-SUFFIX,todesk.com
-  - DOMAIN,rustdesk.wvv.ip-ddns.com
-  - DOMAIN,seafile.wvv.ip-ddns.com
-  - DOMAIN,rustdesk.luori.ink
-  - DOMAIN,seafile.luori.ink
+  - PROCESS-NAME,RustDesk.exe
+
