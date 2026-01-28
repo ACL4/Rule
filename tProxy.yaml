@@ -1,7 +1,5 @@
 payload:
   # jiancefanyi
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,google.com
   # 4K
   - DOMAIN-SUFFIX,4ksg.vip
   - DOMAIN-SUFFIX,fd80s.com
@@ -17,3 +15,4 @@ payload:
   - PROCESS-NAME,ChatGPT.exe
 
   - DOMAIN-SUFFIX,openai.com
+
