@@ -11,8 +11,7 @@
   - PROCESS-NAME,ToDesk.exe
   - DOMAIN-SUFFIX,todesk.com
   - PROCESS-NAME,RustDesk.exe
-  # ToDesk
-  - DOMAIN-SUFFIX,services.googleapis.cn
+  # play
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   
 
