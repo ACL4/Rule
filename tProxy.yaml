@@ -1,6 +1,17 @@
 payload:
-  # jiancefanyi
-  - DOMAIN-SUFFIX,services.googleapis.cn
+  # google_play
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,android.com
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,play.google.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,googleusercontent.com
   # 4K
   - DOMAIN-SUFFIX,4ksg.vip
   - DOMAIN-SUFFIX,fd80s.com
@@ -15,5 +26,6 @@ payload:
   # ChatGPT：ChatGPT
   - PROCESS-NAME,ChatGPT.exe
   - DOMAIN-SUFFIX,openai.com
+
 
 
