@@ -11,7 +11,3 @@
   - PROCESS-NAME,ToDesk.exe
   - DOMAIN-SUFFIX,todesk.com
   - PROCESS-NAME,RustDesk.exe
-  # play
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-  
-
