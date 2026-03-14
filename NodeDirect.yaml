@@ -13,3 +13,17 @@
   - PROCESS-NAME,RustDesk.exe
   - PROCESS-NAME,AskLink.exe
   - PROCESS-NAME,AskLinkSession.exe
+  # microsoft
+  - DOMAIN-SUFFIX,microsoft.cn
+  - DOMAIN-SUFFIX,microsoft.com.cn
+  - DOMAIN-SUFFIX,microsoftstore.com.cn
+  - DOMAIN-SUFFIX,xbox.cn
+  - DOMAIN-SUFFIX,msra.cn
+  - DOMAIN-SUFFIX,officeplus.cn
+  - DOMAIN-SUFFIX,o365cn.com
+  - DOMAIN-SUFFIX,azure.cn
+  - DOMAIN-SUFFIX,chinacloudsites.cn
+  - DOMAIN-SUFFIX,chinacloudapp.cn
+  - DOMAIN-SUFFIX,chinacloudapi.cn
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,trafficmanager.net
