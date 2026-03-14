@@ -7,7 +7,9 @@
   - PROCESS-NAME,ldremote.exe
   - PROCESS-NAME,ldremoteevent.exe
   - PROCESS-NAME,ldremoteservice.exe
-  # ToDesk
+  # DeskTop
   - PROCESS-NAME,ToDesk.exe
   - DOMAIN-SUFFIX,todesk.com
   - PROCESS-NAME,RustDesk.exe
+  - PROCESS-NAME,AskLink.exe
+  - PROCESS-NAME,AskLinkSession.exe
