@@ -13,6 +13,7 @@
   - PROCESS-NAME,RustDesk.exe
   - PROCESS-NAME,AskLink.exe
   - PROCESS-NAME,AskLinkSession.exe
+  - DOMAIN-SUFFIX,asklink.com
   # microsoft
   - DOMAIN-SUFFIX,microsoft.cn
   - DOMAIN-SUFFIX,microsoft.com.cn
