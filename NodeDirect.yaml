@@ -14,6 +14,7 @@
   - PROCESS-NAME,AskLink.exe
   - PROCESS-NAME,AskLinkSession.exe
   - DOMAIN-SUFFIX,asklink.com
+  - DOMAIN,guard.abrdns.com
   # microsoft
   - DOMAIN-SUFFIX,microsoft.cn
   - DOMAIN-SUFFIX,microsoft.com.cn
