@@ -28,3 +28,4 @@
   - DOMAIN-SUFFIX,chinacloudapi.cn
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,trafficmanager.net
+  - DST-PORT,31402
